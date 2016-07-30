@@ -1,0 +1,4 @@
+site_name: Unofficial Ryver API Docs
+theme: readthedocs
+pages:
+- Home: index.md

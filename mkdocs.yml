@@ -1,4 +1,6 @@
 site_name: Unofficial Ryver API Docs
 theme: readthedocs
 pages:
-- Home: index.md
+- Home: "index.md"
+- Entities:
+  - "Entity.Forum": "entities/entity.forum.md"

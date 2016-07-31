@@ -7,3 +7,5 @@ pages:
   - "Making requests": "guide/requests.md"
 - Entities:
   - "Entity.Forum": "entities/entity.forum.md"
+- Chat:
+  - "Chat.PostMessage": "chat/postmessage.md"

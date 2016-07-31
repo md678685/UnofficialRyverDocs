@@ -1,7 +1,7 @@
 # Chat.PostMessage
 
-Available for [Users](entities/entity.user.md), 
-[Forums](entities/entity.forum.md) and [Teams](entities/entity.workroom.md).
+Available for [Users](../entities/entity.user.md), 
+[Forums](../entities/entity.forum.md) and [Teams](../entities/entity.workroom.md).
 
 **Ryver has [already documented this](https://support.ryver.com/chatmessage-api/).**
 It is best to refer to the official docs.

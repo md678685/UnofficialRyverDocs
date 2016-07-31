@@ -1,6 +1,7 @@
 # Entity.Forum
 
-This represents a Ryver forum.
+This represents a Ryver forum. The format for this is identical to 
+[teams](entity.workroom.md).
 
 ## createDate
 

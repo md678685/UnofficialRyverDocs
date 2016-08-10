@@ -48,7 +48,7 @@ A UID for the forum. Usage unknown.
 Some kind of Ryver-wide UUID which refers to the forum. Usage unknown.
 This used to include the account name, but no longer appears to.  
 Old format: `<account_name>+<channel>@conference.ryver.com`  
-New format: `<???>+<channel>@conference.ryver.com`
+New format: `<unknown>+<channel>@conference.ryver.com`
 
 ## active
 

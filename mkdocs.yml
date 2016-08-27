@@ -7,5 +7,8 @@ pages:
   - "Making requests": "guide/requests.md"
 - Entities:
   - "Entity.Forum": "entities/entity.forum.md"
+  - "Entity.Workroom": "entities/entity.workroom.md"
 - Chat:
   - "Chat.PostMessage": "chat/postmessage.md"
+  - "Chat.History": "chat/history.md"
+  - "Tabs.Chat.MarkAsRead": "chat/markasread.md"

@@ -33,3 +33,8 @@ When you see a format with <>s used as brackets, they are placeholders.
 In most cases, they will be properties of the entity and/or will be 
 linked to. However, `<account_name>` refers to the name of your Ryver 
 account (the part between the *https://* and *.ryver.com*).
+
+### result.
+
+If you see `result.` before a property, the result refers to objects 
+in `d.results`.

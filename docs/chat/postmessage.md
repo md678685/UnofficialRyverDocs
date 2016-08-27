@@ -8,6 +8,10 @@ It is best to refer to the official docs.
 
 Method: POST
 
+## Description
+
+Post a message to a user, forum or workroom.
+
 ## Headers
 
 ```
@@ -34,4 +38,4 @@ and password.
 ```
 
 **Note:** The `extras.from` properties are optional. If not specified,
-the message will appear to have been sent by the 
+the message will appear to have been sent by the user authenticated.
